@@ -1,2 +1,2 @@
-# notes-keeper-app
+# notes app
 # notee
